@@ -1,10 +1,6 @@
-Shopping Cart
+Ejemplo TDD
 =============
 
-An online retail website offer a Shopping Cart feature.
-You can buy items depending on certain rules you will get a discount.
-The rules are:
+[![Build Status](https://nicopaez.ci.cloudbees.com/job/ejemplo-tdd/badge/icon)](https://nicopaez.ci.cloudbees.com/job/ejemplo-tdd/)
 
-* If you buy more than 3 items of the same product => you get a 10 % discount on each
-* If your order includes more than 10 items => you get 15 % discount in the order
-* 
+Este es un proyecto muy simple que muestra la técnica TDD
